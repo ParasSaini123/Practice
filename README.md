@@ -1,1 +1,1 @@
-Practicing Git and GitHub Working.git 
+Practicing Git and GitHub Working.
